@@ -1,5 +1,5 @@
 Project: Chapter2_Challenge_Applet
-Author: [Your Name]
+Author: [Tesfamikael hailu]
 Date: October 2025
 
 ===============================================
